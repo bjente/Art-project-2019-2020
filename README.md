@@ -16,4 +16,5 @@ ALWAYS git pull when you start working in the folder.
 - Link to object detection api: https://github.com/tensorflow/models/tree/master/research/object_detection
 - Link to emotion recognition (maybe we can use it as well): https://github.com/omar178/Emotion-recognition
 - Link to material recognition: https://github.com/rizkyario/material-recognition
+- Linkt to deep photo aesthetics: https://github.com/kevinlu1211/deep-photo-aesthetics
 
